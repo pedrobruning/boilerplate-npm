@@ -1,4 +1,5 @@
 {
+	"author": "Pedro Henrique Bruning de Oliveira Schier",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
